@@ -1,7 +1,7 @@
 # WalkingHulkTilegame
 <p align="center">
-    <image src = "https://github.com/AshishMadhu/WalkingHulkTilegame/blob/master/start.jpg" height = 180/>
-    <image src = "https://github.com/AshishMadhu/WalkingHulkTilegame/blob/master/game.jpg" height = 180/>
+    <image src = "https://github.com/AshishMadhu/WalkingHulkTilegame/blob/master/start.jpg" height = 240/>
+    <image src = "https://github.com/AshishMadhu/WalkingHulkTilegame/blob/master/game.jpg" height = 240/>
 </p>
 <hr>
 
